@@ -142,7 +142,7 @@ googleAnalytics = ""
   # Footer section
   [params.footer]
     enable = true
-    leyenda = "El presente Datatón es desarrollado en el marco del proyecto Fortalecimiento Institucional para las Secretarías Ejecutivas del Sistema Nacional Anticorrupción, auspiciado por el Fondo Conjunto México Alemania (FCMA) de la Cooperación Alemana al Desarrollo (GIZ) y la Agencia Mexicana de la Cooperación internacional para el desarrollo (AMEXID)."
+    leyenda = "El presente Datatón es desarrollado en el marco del proyecto Fortalecimiento Institucional para las Secretarías Ejecutivas del Sistema Nacional Anticorrupción, auspiciado por el Fondo Conjunto México Alemania (FCMA) de la Cooperación Alemana al Desarrollo (GIZ) y la Agencia Mexicana de la Cooperación internacional para el desarrollo (AMEXCID)."
     copyright = "Otro fantástico evento de <a href='https://sg.com.mx'>SG</a>."
 
     [[params.footer.social]]
