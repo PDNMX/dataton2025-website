@@ -1,0 +1,14 @@
+{{ "<!-- Info -->" | safeHTML }}
+
+{{ with .Site.GetPage "/convocatoria" }}
+<section id="info">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ .Title }}</h2>
+        <div class="section-description">{{ .Content }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

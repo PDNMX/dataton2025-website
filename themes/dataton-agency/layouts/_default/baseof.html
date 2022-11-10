@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}es-MX{{ end }}">
+{{- partial "head.html" . -}}
+
+<body>
+    {{- partial "nav.html" . -}}
+	<div class="page">
+	{{- block "main" . }}{{- end }}
+	</div>
+	{{- partial "footer.html" . -}}
+    {{- partial "js.html" . -}}
+</body>
+
+</html>

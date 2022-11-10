@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}es-MX{{ end }}">
+
+  {{ partial "head.html" . }}
+
+  <body id="page-top" class="index">
+    {{ partial "nav.html" . }}
+    {{ partial "hero.html" . }}
+
+    {{ if .Site.Params.info.enable }}
+      {{ partial "info.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.registro.enable }}
+      {{ partial "registro.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.sede.enable }}
+      {{ partial "sede.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.timeline.enable }}
+      {{ partial "timeline.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.mentores.enable }}
+      {{ partial "mentores.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.jueces.enable }}
+      {{ partial "jueces.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.sponsors.enable }}
+      {{ partial "sponsors.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.contact.enable }}
+      {{ partial "contact.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.footer.enable }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.portfolio.enable }}
+      {{ partial "modals.html" . }}
+    {{ end }}
+
+    {{ partial "js.html" . }}
+  </body>
+</html>

@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<section class="section {{ .Type }}">
+    <div class="container">
+        <article id="{{ .Params.pageId }}">
+            <h1 class="page-title">{{ .Title }}</h1>
+            {{ .Content }}
+        </article>
+    </div>
+</section>
+
+{{ end }}

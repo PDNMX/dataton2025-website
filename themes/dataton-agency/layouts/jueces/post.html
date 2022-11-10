@@ -1,0 +1,21 @@
+
+<article class="team-member">
+    {{- with .Params.images -}}
+    <img src="{{ index . 0 }}" class="img-fluid rounded-circle">
+    {{ end }}
+    <h3>{{ .Title }}</h3>
+
+    {{ with .Params.position }}<h4>{{ . }}</h4>{{ end }}
+
+    <ul class="d-flex justify-content-center social-buttons">
+        {{ with .Params.linkedin }}
+        <li class="mx-2"><a href="{{ . }}"><i class="fa fa-linkedin"></i></a></li>
+        {{ end }}
+        {{ with .Params.twitter }}
+        <li class="mx-2"><a href="{{ . }}"><i class="fa fa-twitter"></i></a></li>
+        {{ end }}
+        {{ with .Params.github }}
+        <li class="mx-2"><a href="{{ . }}"><i class="fa fa-github"></i></a></li>
+        {{ end }}
+    </ul>
+</article>

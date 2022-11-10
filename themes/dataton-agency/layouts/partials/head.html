@@ -1,0 +1,78 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description"
+    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
+
+  {{- template "_internal/opengraph.html" . -}}
+  {{- template "_internal/twitter_cards.html" . -}}
+
+  <title>{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}</title>
+
+  {{ "<!-- Stylesheets -->" | safeHTML }}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+  <link href="/css/styles.css" rel="stylesheet">
+
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="{{ . | absURL }}">
+  {{ end }}
+
+  {{ "<!-- Custom Fonts -->" | safeHTML }}
+  <link href="/font-awesome-v4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+  {{ with .Site.Params.favicon }}
+  <link rel="shortcut icon" type="image/x-icon" href="{{ . | absURL }}">
+  <link rel="icon" type="image/x-icon" href="{{ . | absURL }}">
+  {{ end }}
+
+  {{ with .Site.GoogleAnalytics }}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', '{{ . }}');
+  </script>
+  {{ end }}
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "{{ .Site.Title }}",
+      "startDate": "{{ .Site.Params.start_date }}",
+      "endDate": "{{ .Site.Params.end_date }}",
+    "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": {{ .Site.BaseURL }}
+      },
+      "image": [ {{ index .Site.Params.images 0 | absURL }} ],
+      "description": "{{ .Site.Params.description }}",
+      "offers": {
+        "@type": "Offer",
+        "url": {{ with .Site.Params.navigation_button.link }}{{ . | absURL }}{{ end }},
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2021-11-10T12:00"
+      },
+      "performer": {
+        "@type": "PerformingGroup",
+        "name": "SESNA"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Software Guru",
+        "url": "https://devrel.sg.com.mx"
+      }
+    }
+  </script>
+</head>
