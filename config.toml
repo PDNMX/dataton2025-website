@@ -110,24 +110,15 @@ googleAnalytics = ""
 
     [params.sponsors3_list]
       enable = true
-      title = "Con el apoyo de" 
-
-
-      [[params.sponsors3]]
-        logo = "amazon.png"
-        link = "https://www.amazon.com.mx"
+      title = "Partners" 
 
       [[params.sponsors3]]
-        logo = "caf2.png"
-        link = "https://www.caf.com"
+        logo = "platzi.jpg"
+        link = "https://platzi.com/escuela/escuela-datos"
 
       [[params.sponsors3]]
-        logo = "imco.png"
-        link = "https://imco.org.mx/"
-
-      [[params.sponsors3]]
-        logo = "HACIENDA.png"
-        link = "https://www.gob.mx/pff"
+        logo = "del.png"
+        link = "https://beacons.ai/dataengineeringlatam"
 
 
     [params.sponsors4_list]
