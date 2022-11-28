@@ -12,7 +12,7 @@ Consideramos que las personas que más pueden aportar son aquellas con experienc
 Si te interesa participar, por favor únete a nuestro Discord y llena la forma de solicitud de participación. [Consulta los detalles](/participa).
 
 ### Somos varias personas que queremos participar, ¿todos deben llenar la solicitud?
-Sí, cada uno debe llenar la [solicitud de participación] (https://docs.google.com/forms/d/e/1FAIpQLScIEi8o3KrgO8FIb_QAPW5A0Lq5iNNOVOqZFRpisJSiDWAuCQ/viewform).
+Sí, cada uno debe llenar la [solicitud de participación](https://docs.google.com/forms/d/e/1FAIpQLScIEi8o3KrgO8FIb_QAPW5A0Lq5iNNOVOqZFRpisJSiDWAuCQ/viewform).
 
 ### ¿Hay tamaño máximo de miembros por equipo?
 5 personas es el máximo por equipo
