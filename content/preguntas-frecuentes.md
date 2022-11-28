@@ -8,27 +8,27 @@ pageId: "faq"
 
 ### ¿Quiénes pueden participar?
 La participación es abierta, pero tenemos cupo limitado. 
-Consideramos que las personas que más pueden aportar son aquellas con experiencia en alguno de los siguientes campos: ciencia de datos, desarrollo de software, comunicación, economía, ciencias politicas, derecho y diseño. 
+Consideramos que las personas que más pueden aportar son aquellas con experiencia en alguno de los siguientes campos: Ciencia de datos, ingenierías, ciencias sociales, desarrolladores, abogados, diseñadores, economistas, actuaría, internacionalistas, comunicadores, áreas afines o público en general que tenga interés por el tema de contrataciones públicas.
 Si te interesa participar, por favor únete a nuestro Discord y llena la forma de solicitud de participación. [Consulta los detalles](/participa).
 
 ### Somos varias personas que queremos participar, ¿todos deben llenar la solicitud?
-Sí, cada uno debe llenar la solicitud de participación.
+Sí, cada uno debe llenar la [solicitud de participación] (https://docs.google.com/forms/d/e/1FAIpQLScIEi8o3KrgO8FIb_QAPW5A0Lq5iNNOVOqZFRpisJSiDWAuCQ/viewform).
 
 ### ¿Hay tamaño máximo de miembros por equipo?
-6 personas es el máximo por equipo
+5 personas es el máximo por equipo
 
 ## Mecánica
 
 ### ¿Qué datos usaremos?
-* Datos de declaraciones patrimoniales y de intereses de personas servidoras públicas.
-* Datos de personas servidoras públicas que intervienen en contrataciones públicas.
-* Datos de personas servidoras públicas sancionadas por actos de corrupción.
+* **Sistema 1** : Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal.
+* **Sistema 2** : Sistema de los servidores públicos que intervengan en procedimientos de contrataciones públicas.
+* **Sistema 3** : Sistema nacional de servidores públicos y particulares sancionados
 
-Es importante recalcar que los datos que se utilizarán durante el Datatón son ficticios, dado que los Formatos de declaración vigentes se publicaron a finales de 2019 y todavía no se cuenta información histórica para analizar. Asimismo, parte de los  datos incluidos en las declaraciones son reservados y no están abiertos al público en general, por ello, las herramientas y algoritmos que nos ayudes a construir servirán para que las personas e instituciones públicas facultadas puedan aplicarlas para detectar posibles casos de corrupción.
+Las bases de datos las proporcionará el equipo de la PDN por medio de archivos descargables en formato JSON.
 
 
 ### ¿Qué tipo de entregables esperan?
-Los resultados de los algoritmos deberán ser desplegados a través de tableros dinámicos de visualización de datos (dashboard).
+Los resultados de los algoritmos deberán ser medianterepresentaciones gráficas o herramientas con el objetivo de facilitar el análisis y comprensión de los conjuntos de datos masivos, y que puedan ser utilizadas por cualquier persona que cuente con los mismos campos de información.
 
 ### ¿Contaremos con el apoyo de asesores o mentores?
 Sí, el equipo de la Plataforma Digital Nacional estará participando como mentores y realizaremos un taller previo online donde explicaremos los detalles sobre los datos y lo que esperamos hagan con ellos.
@@ -43,3 +43,6 @@ La propiedad intelectual es de los creadores de los proyectos/herramientas. Pero
 
 ### ¿Hay premios?
 Sí tendremos premios para los equipos ganadores y destacados. Pronto publicaremos más información.
+
+### Observación:
+La persona ganadora o un miembro del equipo ganador debe asistir a recoger los premios el Viernes 09 de Diciembre en la Ciudad de México a la hora indicada (en un caso excepcional se podrá enviar a algún representante).
