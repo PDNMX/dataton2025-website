@@ -5,7 +5,6 @@ images: ["/img/team/dayanhara-aguilar.jpg"]
 position: "Secretaria Técnica Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas"
 linkedin:
 twitter: 
-draft: true
 ---
 
 

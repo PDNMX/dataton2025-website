@@ -120,6 +120,9 @@ googleAnalytics = ""
         logo = "del.png"
         link = "https://beacons.ai/dataengineeringlatam"
 
+      [[params.sponsors3]]
+        logo = "ST_logo_C.png"
+        link = "https://socialtic.org/"
 
     [params.sponsors4_list]
       enable = true
