@@ -84,7 +84,7 @@ googleAnalytics = ""
       center = true
 
     [params.sponsors1_list]
-      enable = true
+      enable = false
       title = "Patrocinado por"
 
       [[params.sponsors1]]
@@ -101,15 +101,15 @@ googleAnalytics = ""
       title = "Una iniciativa de " 
 
       [[params.sponsors2]]
+        logo = "sna.png"
+        link = "https://www.sna.org.mx/"
+
+      [[params.sponsors2]]
         logo = "sesna.png"
         link = "https://www.gob.mx/sesna"
 
-      [[params.sponsors2]]
-        logo = "PDN_plataforma.png"
-        link = "https://plataformadigitalnacional.org"
-
     [params.sponsors3_list]
-      enable = true
+      enable = false
       title = "Partners" 
 
       [[params.sponsors3]]

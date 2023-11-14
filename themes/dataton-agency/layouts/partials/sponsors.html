@@ -2,10 +2,13 @@
 <aside class="clients">
   <div class="container">
 
+    {{ if .Site.Params.sponsors1_list.enable }}
     <div class="text-center">
       <h3 class="heading">{{ with .Site.Params.sponsors1_list.title }}{{ . | markdownify }}{{ end }}</h3>
     </div>
+    {{ end }}
     <div class="d-flex flex-wrap justify-content-center">
+      {{ if .Site.Params.sponsors1_list.enable }}
       {{ range .Site.Params.sponsors1 }}
       <div class="sponsors">
         {{ $url := printf "img/logos/%s" .logo }}
@@ -18,13 +21,16 @@
         {{ end }}
       </div>
       {{ end }}
-
+      {{ end }}
     </div>
 
+    {{ if .Site.Params.sponsors2_list.enable }}
     <div class="text-center">
       <h3 class="heading">{{ with .Site.Params.sponsors2_list.title }}{{ . | markdownify }}{{ end }}</h3>
     </div>
+    {{ end }}
     <div class="d-flex flex-wrap justify-content-center">
+      {{ if .Site.Params.sponsors2_list.enable }}
       {{ range .Site.Params.sponsors2 }}
       <div class="sponsors col-lg-3 col-md-4 col-sm-6">
         {{ $url := printf "img/logos/%s" .logo }}
@@ -37,14 +43,18 @@
         {{ end }}
       </div>
       {{ end }}
+      {{ end }}
 
     </div>
 
   
+    {{ if .Site.Params.sponsors3_list.enable }}
     <div class="text-center">
       <h3 class="heading">{{ with .Site.Params.sponsors3_list.title }}{{ . | markdownify }}{{ end }}</h3>
     </div>
+    {{ end }}
     <div class="d-flex flex-wrap justify-content-center">
+      {{ if .Site.Params.sponsors3_list.enable }}
       {{ range .Site.Params.sponsors3 }}
       <div class="sponsors col-lg-3 col-md-3 col-sm-4 col-xs-4 col">
         {{ $url := printf "img/logos/%s" .logo }}
@@ -56,6 +66,7 @@
         <img src="{{ $url | absURL }}" class="img-fluid" alt="">
         {{ end }}
       </div>
+      {{ end }}
       {{ end }}
 
     </div>

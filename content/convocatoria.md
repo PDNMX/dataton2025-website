@@ -3,13 +3,15 @@ title: "Convocatoria"
 date: 2021-11-12T00:00:00-06:00
 ---
 
-El equipo de la [Plataforma Digital Nacional](https://plataformadigitalnacional.org) convoca a la sociedad civil a participar en el Datatón Anticorrupción 2022 cuyo objetivo es desarrollar herramientas que permitan generar representaciones gráficas, a partir de los datos que ya se encuentran en el sistema 1, 2 y 3 de la PDN, se favorece el uso de herramientas de uso libre para que estas representaciones puedan ser puestas a disposición en el [Mercado Digital Anticorrupción](https://mda.plataformadigitalnacional.org), así como el uso de los datos de más de un sistema.
+La Secretaría Ejecutiva del Sistema Nacional Anticorrupción (SESNA) convoca a la ciudadanía, organizaciones de la sociedad civil, sector privado, periodistas y personas servidoras públicas y personas interesadas en temas de uso de datos y el combate a la corrupción a participar en el Datatón Anticorrupción 2023.
 
-Las representaciones gráficas o herramientas que se desarrollen durante el evento tendrán el objetivo de facilitar el análisis y comprensión de los conjuntos de datos masivos, permitiendo observar tendencias o elementos de interés en los datos.
+#### Objetivo
+Proponer y desarrollar soluciones innovadoras basadas en la tecnología que fortalezcan al Sistema Nacional Anticorrupción en la prevención y detección temprana de la corrupción en México, a través del uso  de los datos abiertos disponibles en la Plataforma Digital Nacional (PDN) del Sistema Nacional Anticorrupción.
 
-
-#### Dirigido a
-Aunque la participación es abierta, consideramos que las personas que más pueden aportar son aquellas con experiencia 
-en alguno de los siguientes campos: ciencia de datos, desarrollo de software, diseño UX, periodismo, comunicación, derecho, economía. 
-
-
+#### Reto público
+El reto a resolver para este certamen es desarrollar soluciones innovadoras que permitan la prevención y detección eficiente de posibles faltas administrativas de servidores públicos y de particulares. Las personas participantes trabajarán con la información pública disponible en los sistemas de la Plataforma Digital Nacional, la cual es posible de usar, reutilizar y transformar de acuerdo con las necesidades o casos de uso que se quieran implementar. Al respecto, se busca que las personas participantes logren  proponer y desarrollar algoritmos anticorrupción capaces de identificar patrones de conductas relacionadas con las siguientes faltas administrativas de la Ley General de Responsabilidades Administrativas (LGRA):
+ * Actuación bajo conflicto de intereses
+ * Contratación indebida
+ * Enriquecimiento oculto 
+ * Tráfico de influencias
+ * Colusión
