@@ -1,5 +1,5 @@
 # Site settings
-# baseurl = "https://datatonanticorrupcion.mx/"
+baseurl = "http://dataton2023.plataformadigitalnacional.org/"
 relativeURLs = true
 languageCode = "es-mx"
 defaultContentLanguage = "es"
@@ -12,13 +12,13 @@ googleAnalytics = ""
 [params]
 
   # Metadata for search engines
-  name = "Datatón Anticorrupción 2022"
+  name = "Datatón Anticorrupción 2023"
   description = """El datatón anticorrupción es una iniciativa donde construiremos herramientas 
   que analicen datos abiertos con el fin de combatir la corrupción en México."""
   twitter_user = "@SESNAOficial"
   images = [""]
-  start_date = "2022-12-01T17:00-06:00"
-  end_date = "2022-12-04T16:00-06:00"
+  start_date = "2023-11-30T17:00-06:00"
+  end_date = "2023-12-03T16:00-06:00"
   logo = "/img/logo-navbar.svg"
 
   # Link custom assets relative to /static
