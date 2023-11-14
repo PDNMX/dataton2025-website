@@ -1,9 +1,11 @@
 {{ "<!-- Footer section -->" | safeHTML }}
 <footer>
   <div class="container">
+    {{ with .Site.Params.footer.leyenda }}
     <div class="leyenda text-center">
-        {{ with .Site.Params.footer.leyenda }}{{ . | markdownify }}{{ end }}
+        {{ . | markdownify }}
     </div>
+    {{ end }}
     <div class="footergrid">
       <div>
         <span class="copyright">{{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }}</span>

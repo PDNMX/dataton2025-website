@@ -43,8 +43,8 @@ googleAnalytics = ""
       weight = 1
 
     [[menu.main]]
-      name = "Contexto"
-      url = "/contexto"
+      name = "Bases"
+      url = "/files/DatatonAnticorrupcion2023-Basesv1.pdf"
       weight = 4
 
     [[menu.main]]
@@ -136,7 +136,7 @@ googleAnalytics = ""
   # Footer section
   [params.footer]
     enable = true
-    leyenda = "El presente Datatón es desarrollado en el marco del proyecto Fortalecimiento Institucional para las Secretarías Ejecutivas del Sistema Nacional Anticorrupción, auspiciado por el Fondo Conjunto México Alemania (FCMA) de la Cooperación Alemana al Desarrollo (GIZ) y la Agencia Mexicana de la Cooperación internacional para el desarrollo (AMEXCID)."
+    leyenda = ""
     copyright = "Otro fantástico evento de <a href='https://sg.com.mx'>SG</a>."
 
     [[params.footer.social]]
@@ -160,5 +160,5 @@ googleAnalytics = ""
 
     [[params.footer.quicklinks]]
       text = "Privacidad de datos"
-      link = "/privacidad"
+      link = "/files/DatatonAnticorrupcion2023-AvisoDePrivacidad.pdf"
 
