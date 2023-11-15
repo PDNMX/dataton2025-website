@@ -16,7 +16,7 @@ googleAnalytics = ""
   description = """El datatón anticorrupción es una iniciativa donde construiremos herramientas 
   que analicen datos abiertos con el fin de combatir la corrupción en México."""
   twitter_user = "@SESNAOficial"
-  images = [""]
+  images = ["/img/card-2023.jpg"]
   start_date = "2023-11-30T17:00-06:00"
   end_date = "2023-12-03T16:00-06:00"
   logo = "/img/logo-navbar.svg"
