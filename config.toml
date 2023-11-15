@@ -74,7 +74,7 @@ googleAnalytics = ""
 
   # Jueces
   [params.jueces]
-    enable = true
+    enable = false
 
   # Sponsors section
   # Los logos de los aliados están en 'static/img/logos'.
