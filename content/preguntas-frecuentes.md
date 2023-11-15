@@ -52,4 +52,4 @@ La propiedad intelectual es de los creadores de los proyectos/herramientas. Pero
 Sí tendremos premios para los equipos ganadores y destacados. Pronto publicaremos más información.
 
 ### Observación:
-La persona ganadora o un miembro del equipo ganador debe asistir a una ceremonia de premiación el Miércoles 5 de Diciembre en Mérida, Yucatán. Los organizadores del Dataton cubrirán los gastos de viaje de una persona por equipo (vuelo nacional).
+La persona ganadora o un miembro del equipo ganador debe asistir a una ceremonia de premiación el Miércoles 6 de Diciembre en Mérida, Yucatán. Los organizadores del Dataton cubrirán los gastos de viaje de una persona por equipo (vuelo nacional).
