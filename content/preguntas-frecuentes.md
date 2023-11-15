@@ -12,7 +12,7 @@ Consideramos que las personas que más pueden aportar son aquellas con experienc
 Si te interesa participar, por favor únete a nuestro Discord y llena la forma de solicitud de participación. [Consulta los detalles](/participa).
 
 ### Somos varias personas que queremos participar, ¿todos deben llenar la solicitud?
-Sí, cada uno debe llenar la [solicitud de participación](https://docs.google.com/forms/d/e/1FAIpQLScIEi8o3KrgO8FIb_QAPW5A0Lq5iNNOVOqZFRpisJSiDWAuCQ/viewform).
+Sí, cada uno debe llenar la [solicitud de participación](https://docs.google.com/forms/d/e/1FAIpQLSccyWj01B7dDIDbnR2shz7MwNZFPhR_aSNQHEOqP76IeNg04w/viewform?usp=sf_link).
 
 ### ¿Hay tamaño máximo de miembros por equipo?
 5 personas es el máximo por equipo
@@ -52,4 +52,4 @@ La propiedad intelectual es de los creadores de los proyectos/herramientas. Pero
 Sí tendremos premios para los equipos ganadores y destacados. Pronto publicaremos más información.
 
 ### Observación:
-La persona ganadora o un miembro del equipo ganador debe asistir a recoger los premios el Viernes 09 de Diciembre en la Ciudad de México a la hora indicada (en un caso excepcional se podrá enviar a algún representante).
+La persona ganadora o un miembro del equipo ganador debe asistir a una ceremonia de premiación el Miércoles 5 de Diciembre en Mérida, Yucatán. Los organizadores del Dataton cubrirán los gastos de viaje de una persona por equipo (vuelo nacional).
