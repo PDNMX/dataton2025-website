@@ -86,11 +86,11 @@ h1.page-title {
 }
 
 .btn-primary {
-    border-color: #3ab0e5;
+    border-color: #a7519a;
     text-transform: uppercase;
     font-weight: 500;
     color: #fff;
-    background-color: #3ab0e5;
+    background-color: #a7519a;
 }
 
 .btn-primary:hover,
@@ -98,9 +98,9 @@ h1.page-title {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #285c54;
+    border-color: #ffffff;
     color: #fff;
-    background-color: #285c54;
+    background-color: #a7519a;
 }
 
 .btn-primary:active,
@@ -184,6 +184,9 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+.navbar {
+    background: linear-gradient(60deg, rgba(167,81,154,1) 0%, rgba(28,154,214,1) 90%);;
+}
 
 .navbar .navbar-brand {
     color: #ffffff;
@@ -235,7 +238,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar li {
-    padding: 0px 10px;
+    padding: 0px 15px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -245,13 +248,13 @@ fieldset[disabled] .btn-xl.active {
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 1px;
-    color: #202020;
+    color: #ffffff;
 }
 
 .navbar li a:hover,
 .navbar li a:focus {
     outline: 0;
-    color: #3ab0e5;
+    text-decoration: underline;
 }
 
 .navbar .navbar-nav>.active>a {
@@ -270,7 +273,6 @@ fieldset[disabled] .btn-xl.active {
     .navbar {
         padding: 20px 0;
         border-bottom: 1px solid #606060;
-        background-color: #ffffff;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -289,7 +291,6 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar.navbar-shrink {
         padding: 10px 0;
-        background-color: #ffffff;
     }
 
     .navbar.navbar-shrink .navbar-brand {
