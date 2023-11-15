@@ -239,9 +239,12 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar li {
     padding: 0px 15px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+    @media(min-width: 992px) {
+        display: flex;
+        flex-direction: row;
+        align-items: center;    
+    }
+ 
 }
 
 .navbar li a {

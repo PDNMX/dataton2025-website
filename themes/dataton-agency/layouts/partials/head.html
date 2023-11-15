@@ -12,12 +12,8 @@
   <title>{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}</title>
 
   {{ "<!-- Stylesheets -->" | safeHTML }}
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
   <link href="/css/styles.css" rel="stylesheet">
-
-  {{ range .Site.Params.custom_css }}
-  <link rel="stylesheet" href="{{ . | absURL }}">
-  {{ end }}
 
   {{ "<!-- Custom Fonts -->" | safeHTML }}
   <link href="/font-awesome-v4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
