@@ -5,7 +5,7 @@ images: ["/img/team/andrea-barenque.jpg"]
 position: "Fundadora y directora general de Datamorfosis"
 linkedin: 
 twitter: 
-draft: true
+
 ---
 
 
