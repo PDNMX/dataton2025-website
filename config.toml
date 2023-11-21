@@ -13,7 +13,7 @@ googleAnalytics = ""
 
   # Metadata for search engines
   name = "Datatón Anticorrupción 2023"
-  description = """El datatón anticorrupción es una iniciativa donde construiremos herramientas 
+  description = """El Datatón Anticorrupción es una iniciativa donde construiremos herramientas 
   que analicen datos abiertos con el fin de combatir la corrupción en México."""
   twitter_user = "@SESNAOficial"
   images = ["/img/card-2023.jpg"]
