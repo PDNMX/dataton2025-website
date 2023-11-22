@@ -5,6 +5,6 @@ images: ["/img/team/rosa-buendia.jpg"]
 position: "Titular en la Contraloría General de Baja California Sur"
 linkedin: 
 twitter: 
-draft: true
+
 ---
 
