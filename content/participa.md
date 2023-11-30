@@ -9,7 +9,7 @@ El Datatón 2023 Anticorrupción es un evento de participación voluntaria y gra
 Si te interesa participar, sigue las siguientes indicaciones, por favor:
 
 1. Llena la solicitud de [participación individual](https://docs.google.com/forms/d/e/1FAIpQLSccyWj01B7dDIDbnR2shz7MwNZFPhR_aSNQHEOqP76IeNg04w/viewform?usp=sf_link).
-2. Únete al Discord del Dataton 2023 Anticorrupción e ingresa al canal [**#🤖Bienvenida-preregistro](https://discord.com/channels/907813225897287710/909830826223611964)
+2. Únete al Discord del Dataton 2023 Anticorrupción e ingresa al canal [#🤖Bienvenida-preregistro](https://discord.com/invite/NrAUzxt98C)
 3. Si cuentas con un equipo (máximo 5 integrantes), recuerda que todos deben llenar la solicitud (ver paso 1).
 4. Una vez que te registres te contactaremos para informarte los siguientes pasos.
 
