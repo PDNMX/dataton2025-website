@@ -1,7 +1,8 @@
 ---
 title: "Preguntas Frecuentes"
 linkTitle: "FAQ"
-pageId: "faq"
+aliases:
+ - faq.html
 ---
 
 ## Participación
@@ -12,7 +13,7 @@ Consideramos que las personas que más pueden aportar son aquellas con experienc
 Si te interesa participar, por favor únete a nuestro Discord y llena la forma de solicitud de participación. [Consulta los detalles](/participa).
 
 ### Somos varias personas que queremos participar, ¿todos deben llenar la solicitud?
-Sí, cada uno debe llenar la [solicitud de participación](https://docs.google.com/forms/d/e/1FAIpQLSccyWj01B7dDIDbnR2shz7MwNZFPhR_aSNQHEOqP76IeNg04w/viewform?usp=sf_link).
+Sí, cada uno debe llenar la [solicitud de participación](https://docs.google.com/forms/d/e/1FAIpQLSc8lydxOD1BnVu33xsVROCdA_khZy9yKxVn5J7Fg7h8P4Zh4g/viewform).
 
 ### ¿Hay tamaño máximo de miembros por equipo?
 5 personas es el máximo por equipo
@@ -21,17 +22,16 @@ Sí, cada uno debe llenar la [solicitud de participación](https://docs.google.c
 
 ### ¿Qué datos usaremos?
 El uso de los datos de uno o más sistemas de la Plataforma Digital Nacional es obligatorio. Para ello, se utilizarán los siguientes Sistemas que se encuentran en piloteo y desarrollo:
-* Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal (Sistema 1)
-* Sistema de los servidores públicos que intervienen en procedimientos de contrataciones públicas (Sistema 2)
-* Sistema nacional de Servidores públicos y particulares sancionados (Sistema 3)
-* Sistema de Información pública de contrataciones (Sistema 6)
+ - Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal (Sistema 1)
+ - Sistema de los servidores públicos que intervienen en procedimientos de contrataciones públicas (Sistema 2)
+ - Sistema nacional de Servidores públicos y particulares sancionados (Sistema 3)
+ - Sistema de Información pública de contrataciones (Sistema 6)
 
-En esta 5a edición, el Datatón Anticorrupción pondrá una herramienta adicional a la PDN para realizar las búsquedas o consultas de información. En comento, las personas participantes tendrán acceso a bases de datos que facilitará la organización abrimos.info. Esta base de datos servirá como un recurso complementario y de apoyo para la exploración de información, ya que la herramienta permite acceder estratégicamente a información pública de otras fuentes de datos.
-
+En esta 6ª edición, el Datatón Anticorrupción 2024 pondrá herramientas adicionales a la PDN para realizar las búsquedas o consultas de información. En comento, las personas participantes tendrán acceso a bases de datos de abrimos.info y ojosanciones.sociedad.info. Estas bases de datos servirán como un recurso complementario y de apoyo para la exploración de información, ya que las herramientas permiten acceder estratégicamente a información pública de otras fuentes nacionales e internacionales.
 
 ### ¿Qué tipo de entregables esperan?
 Esperamos que los equipos analicen las fuentes de datos para generar hallazgos de posibles casos de corrupción. Los artefactos específicos que esperamos que los equipos participantes entreguen, y que serán tomados en cuenta para la evaluación, son:
-Para la evaluación, se considerarán los siguientes productos:
+
 1. Presentación ejecutiva que describa la metodología utilizada y herramienta tecnológica
 que identifique posibles faltas administrativas (en formato ppt. o mp3).
 2. Repositorio del código utilizado para el desarrollo de la herramienta presentada.
@@ -46,10 +46,8 @@ Estaremos usando Discord. Tendremos canales de comunicación para cada equipo, a
 ## Otros
 
 ### ¿De quien es la propiedad intelectual de los proyectos?
-La propiedad intelectual es de los creadores de los proyectos/herramientas. Pero para ser elegibles para premios requerimos que elijan una licencia abierta para que ciudadanos o instituciones puedan usarla para fines no comerciales. Por ejemplo, una licencia [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/) sería adecuada. 
+La propiedad intelectual de los proyectos y herramientas desarrollados durante el Datatón Anticorrupción 2024 pertenece a sus creadores. Sin embargo, para ser elegibles a recibir premios, se requiere que las personas participantes estén de acuerdo en aplicar una licencia abierta, específicamente la licencia [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC). Esta licencia permite que la ciudadanía e instituciones utilicen estas creaciones con fines no comerciales.
 
 ### ¿Hay premios?
-Sí tendremos premios para los equipos ganadores y destacados. Pronto publicaremos más información.
+Sí, tendremos premios en especie para los tres equipos ganadores, también se reconocerá su destacada contribución a la lucha contra la corrupción. Si quieres conocer el detalle de la premiación, consulta la convocatoria en la sección “BASES” de la página oficial del Datatón Anticorrupción 2024.
 
-### Observación:
-La persona ganadora o un miembro del equipo ganador debe asistir a una ceremonia de premiación el Miércoles 6 de Diciembre en Mérida, Yucatán. Los organizadores del Dataton cubrirán los gastos de viaje de una persona por equipo (vuelo nacional).

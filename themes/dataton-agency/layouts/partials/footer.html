@@ -7,10 +7,6 @@
     </div>
     {{ end }}
     <div class="footergrid">
-      <div>
-        <span class="copyright">{{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }}</span>
-      </div>
-
       <div class="text-center">
         <ul class="d-flex social-buttons justify-content-center">
           {{ range .Site.Params.footer.social }}

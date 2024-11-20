@@ -3,7 +3,7 @@ baseurl = "https://dataton2024.plataformadigitalnacional.org/"
 relativeURLs = true
 languageCode = "es-mx"
 defaultContentLanguage = "es"
-title = "Datatón Anticorrupción"
+title = "Datatón Anticorrupción 2024"
 theme = "dataton-agency"
 
 # Enter your tracking code to enable Google Analytics
@@ -17,8 +17,8 @@ googleAnalytics = ""
   que analicen datos abiertos con el fin de combatir la corrupción en México."""
   twitter_user = "@SESNAOficial"
   images = ["/img/card-2023.jpg"]
-  start_date = "2023-11-30T17:00-06:00"
-  end_date = "2023-12-03T16:00-06:00"
+  start_date = "2024-12-04T17:00-06:00"
+  end_date = "2023-12-07T16:00-06:00"
   logo = "/img/logo_pdn-transparente.svg"
 
   # Link custom assets relative to /static
@@ -33,7 +33,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "Datatón Anticorrupción"
+    brand = "Datatón Anticorrupción 2024"
     # Optional logo as brand stored in img/
     logo = "logoPDN-2024.svg"
  
@@ -44,7 +44,7 @@ googleAnalytics = ""
 
     [[menu.main]]
       name = "Bases"
-      url = "/files/DatatonAnticorrupcion2023-Basesv1_3.pdf"
+      url = "/files/DatatonAnticorrupcion2024-basesv1.pdf"
       weight = 4
 
     [[menu.main]]
@@ -125,7 +125,7 @@ googleAnalytics = ""
         link = "https://socialtic.org/"
 
     [params.sponsors4_list]
-      enable = true
+      enable = false
       title = "Producido por"
 
       [[params.sponsors4]]
@@ -137,7 +137,7 @@ googleAnalytics = ""
   [params.footer]
     enable = true
     leyenda = ""
-    copyright = "Otro fantástico evento de <a href='https://sg.com.mx'>SG</a>."
+    copyright = ""
 
     [[params.footer.social]]
       icon = "fa-twitter"
@@ -151,14 +151,10 @@ googleAnalytics = ""
 
     [[params.footer.social]]
       icon = "fa-envelope-o"
-      link = "mailto:dataton@sg.com.mx"
+      link = "mailto:datatonanticorrupcion@gmail.com"
       title = "Correo electrónico"
 
     [[params.footer.quicklinks]]
-      text = "Código de Conducta"
-      link = "/coc"
-
-    [[params.footer.quicklinks]]
       text = "Privacidad de datos"
-      link = "/files/DatatonAnticorrupcion2023-AvisoDePrivacidadv1_1.pdf"
+      link = "/files/DatatonAnticorrupcion2024-AvisoDePrivacidad.pdf"
 

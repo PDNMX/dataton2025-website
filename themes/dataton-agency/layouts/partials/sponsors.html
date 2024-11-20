@@ -71,7 +71,7 @@
 
     </div>
     
-
+  {{ if .Site.Params.sponsors4_list.enable }}
     <div class="text-center">
         <h3 class="heading">{{ with .Site.Params.sponsors4_list.title }}{{ . | markdownify }}{{ end }}</h3>
     </div>
@@ -88,9 +88,8 @@
         {{ end }}
       </div>
       {{ end }}
-
     </div>
-
+  {{ end }}
 
   </div>
 </aside>

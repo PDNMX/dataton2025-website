@@ -1,12 +1,22 @@
-<!-- <section id="jueces" class="bg-light-gray">
+<section id="jueces" class="bg-light-gray">
   <div class="container">
-    <h2 class="section-heading">Jueces</h2>
+    <h2 class="section-heading">Jurado</h2>
     <div class="d-flex flex-wrap justify-content-around">
-      {{range where .Site.RegularPages.ByTitle "Section" "jueces" }}
-      <div class="col-sm-6 col-md-4 col-lg-3">
-        {{ .Render "post" }}
+      <div class="row">
+        {{range where (where .Site.RegularPages "Section" "jueces") ".Params.tier" 1 }}
+        <div class="col-sm-6">
+          {{ .Render "post" }}
+        </div>
+        {{ end }}
       </div>
-      {{ end }}
+      <div class="row">
+        {{range where (where .Site.RegularPages "Section" "jueces") ".Params.tier" 2 }}
+        <div class="col-sm-3">
+          {{ .Render "post" }}
+        </div>
+        {{ end }}
+      </div>
+
     </div>
   </div>
-</section> -->
+</section>
