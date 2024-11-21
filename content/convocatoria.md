@@ -9,7 +9,7 @@ La Secretaría Ejecutiva del Sistema Nacional Anticorrupción (SESNA) invita a l
 Proponer y desarrollar soluciones creativas e innovadoras basadas en la tecnología que fortalezcan al Sistema Nacional Anticorrupción en la prevención y detección temprana de la corrupción en México, a través del uso de los datos abiertos disponibles en la PDN del SNA.
 
 #### Reto público
-El reto a resolver en esta edición es proponer y desarrollar soluciones creativas e innovadoras basadas en tecnología de código abierto, que fortalezcan al SNA en la detección e investigación oportunas de posibles faltas administrativas y hechos de corrupción en los procesos de contrataciones públicas en México, tales como:
+El reto a resolver en esta edición es proponer y desarrollar soluciones creativas e innovadoras basadas en tecnología de código abierto, que fortalezcan al SNA en la **detección e investigación oportunas de posibles faltas administrativas y hechos de corrupción en los procesos de contrataciones públicas en México**, tales como:
  * Cohecho
  * Desvío de recursos públicos
  * Utilización indebida de información
