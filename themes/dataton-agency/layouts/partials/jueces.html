@@ -11,7 +11,7 @@
       </div>
       <div class="row">
         {{range where (where .Site.RegularPages "Section" "jueces") ".Params.tier" 2 }}
-        <div class="col-sm-3">
+        <div class="col-sm-4">
           {{ .Render "post" }}
         </div>
         {{ end }}
