@@ -5,8 +5,8 @@ images: ["/img/team/janeth-bustamante.jpg"]
 position: "Titular de la Unidad de Servicios Tecnológicos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Puebla"
 linkedin: 
 twitter: 
-weight: 3
 tier: 2
+weight: 4
 ---
 
 

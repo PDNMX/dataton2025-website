@@ -5,7 +5,7 @@ images: ["/img/team/issa-luna.jpg"]
 position: "Coordinadora del Área de Derecho de la Información del Instituto de Investigaciones Jurídicas de la UNAM (IIJ-UNAM)"
 linkedin: 
 twitter: 
-weight: 4
+weight: 6
 tier: 2
 ---
 

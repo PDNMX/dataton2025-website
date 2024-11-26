@@ -1,12 +1,12 @@
 ---
 title: "Eduardo Bohórquez"
 date: 2024-11-25T01:04:45-06:00
-images: ["/img/team/eduardo-bohorquez.jpg"]
+images: ["/img/team/eduardo-bohorquez2.jpg"]
 position: "Director Ejecutivo de Transparencia Mexicana, A.C."
 linkedin: 
 twitter: 
 tier: 2
-weight: 7
+weight: 5
 ---
 
 

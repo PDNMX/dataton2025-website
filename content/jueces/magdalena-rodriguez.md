@@ -5,8 +5,8 @@ images: ["/img/team/magdalena-rodriguez.jpg"]
 position: "Presidenta del Comité de Participación Ciudadana y del Comité Coordinador del Sistema Nacional Anticorrupción (CCP)"
 linkedin: 
 twitter: 
-tier: 2
-weight: 6
+tier: 1
+weight: 1
 ---
 
 

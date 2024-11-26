@@ -6,7 +6,7 @@ position: "Directora General de Monitor Empresarial de Reputación Corporativa M
 linkedin: 
 twitter: 
 tier: 2
-weight: 5
+weight: 8
 ---
 
 

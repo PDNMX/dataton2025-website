@@ -5,8 +5,8 @@ images: ["/img/team/nicolas-dassen.jpg"]
 position: "Especialista Líder en Transparencia, Integridad y Rendición de Cuentas del Banco Interamericano de Desarrollo (BID)"
 linkedin: 
 twitter: 
-weight: 2
-tier: 1
+weight: 3
+tier: 2
 ---
 
 

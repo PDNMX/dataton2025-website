@@ -5,8 +5,8 @@ images: ["/img/team/muna-buchahin.jpg"]
 position: "Auditora Forense y Experta Anticorrupción de la Association of Certified Fraud Examiners México (ACFE México)"
 linkedin: 
 twitter: 
-tier: 1
-weight: 1
+tier: 2
+weight: 2
 ---
 
 

@@ -4,14 +4,14 @@
     <div class="d-flex flex-wrap justify-content-around">
       <div class="row">
         {{range where (where .Site.RegularPages "Section" "jueces") ".Params.tier" 1 }}
-        <div class="col-sm-6">
+        <div class="col-sm-12">
           {{ .Render "post" }}
         </div>
         {{ end }}
       </div>
       <div class="row">
         {{range where (where .Site.RegularPages "Section" "jueces") ".Params.tier" 2 }}
-        <div class="col-sm-4">
+        <div class="col-sm-3">
           {{ .Render "post" }}
         </div>
         {{ end }}

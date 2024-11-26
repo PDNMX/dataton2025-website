@@ -6,7 +6,7 @@ position: "Gerente Regional para América Latina de Open Ownership"
 linkedin: 
 twitter: 
 tier: 2
-weight: 8
+weight: 7
 ---
 
 
