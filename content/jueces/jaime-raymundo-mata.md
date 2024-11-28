@@ -5,7 +5,8 @@ images: ["/img/team/jaime-raymundo-mata.jpg"]
 position: "Coordinador de Adquisiciones y Contratación de Servicios en la Secretaría de Hacienda y Crédito Público"
 linkedin: 
 twitter: 
-draft: true
+tier: 2
+weight: 9
 ---
 
 

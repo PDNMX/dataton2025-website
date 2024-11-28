@@ -20,4 +20,4 @@ Si te interesa participar, sigue las siguientes indicaciones, por favor:
 - [#❓📜dudas-registro](https://discord.com/channels/907813225897287710/1308664277208662036): Aquí resolveremos problemas, dudas o preguntas que tengan que ver con el registro individual y grupal.
 - [#🌎busco-equipo:](https://discord.com/channels/907813225897287710/1308663895023550536) ¿Buscas integrarte o hacer un equipo? Escribe sobre el perfil, herramientas y habilidades que tienes o que buscas.
 
-Si es la primera vez que usas Discord, te compartiremos una Guía de Discord 101.
+Si es la primera vez que usas Discord, te compartiremos una [Guía de Discord 101](/files/datatonanticorrupcion2024-discord101.pdf).
