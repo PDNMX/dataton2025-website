@@ -44,7 +44,7 @@ googleAnalytics = ""
 
     [[menu.main]]
       name = "Bases"
-      url = "/files/DatatonAnticorrupcion2024-basesv3.pdf"
+      url = "/files/DatatonAnticorrupcion2024-basesv4.pdf"
       weight = 4
 
     [[menu.main]]
