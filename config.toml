@@ -158,3 +158,6 @@ googleAnalytics = ""
       text = "Privacidad de datos"
       link = "/files/DatatonAnticorrupcion2024-AvisoDePrivacidad.pdf"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
