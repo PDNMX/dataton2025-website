@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://dataton2024.plataformadigitalnacional.org/"
+baseurl = "https://dataton2025.plataformadigitalnacional.org/"
 relativeURLs = true
 languageCode = "es-mx"
 defaultContentLanguage = "es"
