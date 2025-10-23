@@ -355,7 +355,7 @@ header {
 }
 
 section, .clients {
-    padding-top: 1em;
+    padding-top: 5em;
     padding-bottom: 0em;
 }
 
@@ -1125,5 +1125,4 @@ body::before {
     font-weight: 500;
     color: #fff;
     background-color: #a7519a;
-    font-size: 35px;
 }
