@@ -3,7 +3,7 @@ baseurl = "https://dataton2024.plataformadigitalnacional.org/"
 relativeURLs = true
 languageCode = "es-mx"
 defaultContentLanguage = "es"
-title = "Datatón Anticorrupción 2024"
+title = "Datatón Anticorrupción 2025"
 theme = "dataton-agency"
 
 # Enter your tracking code to enable Google Analytics
@@ -12,7 +12,7 @@ googleAnalytics = ""
 [params]
 
   # Metadata for search engines
-  name = "Datatón Anticorrupción 2024"
+  name = "Datatón Anticorrupción 2025"
   description = """El Datatón Anticorrupción es una iniciativa donde construiremos herramientas 
   que analicen datos abiertos con el fin de combatir la corrupción en México."""
   twitter_user = "@SESNAOficial"
@@ -33,7 +33,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "Datatón Anticorrupción 2024"
+    brand = "Datatón Anticorrupción 2025"
     # Optional logo as brand stored in img/
     logo = "logoPDN-2024.svg"
  

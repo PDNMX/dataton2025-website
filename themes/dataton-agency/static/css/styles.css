@@ -355,8 +355,8 @@ header {
 }
 
 section, .clients {
-    padding-top: 5em;
-    padding-bottom: 5em;
+    padding-top: 1em;
+    padding-bottom: 0em;
 }
 
 section h2.section-heading {
@@ -1053,11 +1053,11 @@ p.text-center.h1 {
 body::before {
     content: "";
     position: absolute;
-    top: 10%;
+    top: 0%;
     left: 0%;
     width: 100%;
     height:  calc(100% - 0px); 
-    background: url(/img/world.png) calc(80% + 30%) 80% no-repeat;
+    background: url(/img/calendar-bg.png) calc(80% + 30%) 80% no-repeat;
     background-size:contain;
     opacity: 0;
     animation: moveAndFade 5s infinite cubic-bezier(0.25, 0.1, 0.25, 1);
@@ -1097,3 +1097,33 @@ body::before {
     }
   }
   
+
+  /*PREVIO   */
+
+  .previo {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.previo h1 {
+    font-family: sans-serif;
+    font-size: 6rem;
+    font-weight: 800;
+    padding: 2rem 0 7rem 0;
+    color: #6f4467;
+}
+
+.intro-text {
+    text-align: center;
+    margin-bottom: 0em;
+    margin-top: 3rem;
+}
+
+.btn-primary {
+    border-color: #a7519a;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #fff;
+    background-color: #a7519a;
+    font-size: 35px;
+}
