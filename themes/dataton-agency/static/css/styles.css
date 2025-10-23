@@ -920,7 +920,7 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #3ab0e5;
+    /* webkit-tap-highlight-color: #3ab0e5; */
 }
 
 #sede {
