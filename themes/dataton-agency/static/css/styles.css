@@ -198,7 +198,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar .navbar-brand:focus,
 .navbar .navbar-brand:active,
 .navbar .navbar-brand.active {
-    color: #3ab0e5;
+    color: #ccc2db;
 }
 
 .navbar-brand>img {
