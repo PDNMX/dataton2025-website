@@ -44,7 +44,7 @@ googleAnalytics = ""
 
     [[menu.main]]
       name = "Bases"
-      url = "/files/DatatonAnticorrupcion2024-basesv5.pdf"
+      url = "/files/CONVOCATORIA_DATATON_ANTICORRUPCION_2025_V-1.pdf"
       weight = 4
 
     [[menu.main]]
@@ -151,12 +151,12 @@ googleAnalytics = ""
 
     [[params.footer.social]]
       icon = "fa-envelope-o"
-      link = "mailto:dataton.anticorrupcion.sesna@gmail.com@gmail.com"
+      link = "mailto:dataton.anticorrupcion.sesna@gmail.com"
       title = "Correo electrónico"
 
     [[params.footer.quicklinks]]
       text = "Privacidad de datos"
-      link = "/files/DatatonAnticorrupcion2024-AvisoDePrivacidad.pdf"
+      link = "/files/Aviso_de_privacidad_integral_del_Datatón_Anticorrupción_2025.pdf"
 
 [caches]
   [caches.images]

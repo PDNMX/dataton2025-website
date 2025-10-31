@@ -9,11 +9,11 @@ aliases:
 
 ### ¿Quiénes pueden participar?
 La participación es abierta, pero tenemos cupo limitado.
-Consideramos que las personas que más pueden aportar son aquellas con experiencia en alguno de los siguientes campos: Ciencia de datos, ingenierías, ciencias sociales, desarrolladores, abogados, diseñadores, economistas, actuaría, internacionalistas, comunicadores, áreas afines o público en general que tenga interés por el tema de contrataciones públicas.
+Consideramos que las personas que más pueden aportar son aquellas con experiencia en alguno de los siguientes campos: Ciencia de datos, ingenierías, ciencias sociales, desarrolladores, abogados, diseñadores, economistas, actuaría, internacionalistas, comunicadores, áreas afines o público en general que tenga interés por el tema de evolución patrimonial.
 Si te interesa participar, por favor únete a nuestro Discord y llena la forma de solicitud de participación. [Consulta los detalles](/participa).
 
 ### Somos varias personas que queremos participar, ¿todos deben llenar la solicitud?
-Sí, cada uno debe llenar la [solicitud de participación](https://docs.google.com/forms/d/e/1FAIpQLSc8lydxOD1BnVu33xsVROCdA_khZy9yKxVn5J7Fg7h8P4Zh4g/viewform).
+Sí, cada uno debe llenar la [solicitud de participación](https://docs.google.com/forms/d/e/1FAIpQLScGESOGYWhi7V_Hkl2yPPA0wR_CApFRavEM4sKO3YkRzHcdmQ/viewform).
 
 ### ¿Hay tamaño máximo de miembros por equipo?
 5 personas es el máximo por equipo
@@ -27,7 +27,7 @@ El uso de los datos de uno o más sistemas de la Plataforma Digital Nacional es 
  - Sistema nacional de Servidores públicos y particulares sancionados (Sistema 3)
  - Sistema de Información pública de contrataciones (Sistema 6)
 
-En esta 6ª edición, el Datatón Anticorrupción 2024 pondrá herramientas adicionales a la PDN para realizar las búsquedas o consultas de información. En comento, las personas participantes tendrán acceso a bases de datos de abrimos.info y ojosanciones.sociedad.info. Estas bases de datos servirán como un recurso complementario y de apoyo para la exploración de información, ya que las herramientas permiten acceder estratégicamente a información pública de otras fuentes nacionales e internacionales.
+En esta 7ª edición, el Datatón Anticorrupción 2025 pondrá herramientas adicionales a la PDN para realizar las búsquedas o consultas de información. En comento, las personas participantes tendrán acceso a bases de datos de abrimos.info y ojosanciones.sociedad.info. Estas bases de datos servirán como un recurso complementario y de apoyo para la exploración de información, ya que las herramientas permiten acceder estratégicamente a información pública de otras fuentes nacionales e internacionales.
 
 ### ¿Qué tipo de entregables esperan?
 Esperamos que los equipos analicen las fuentes de datos para generar hallazgos de posibles casos de corrupción. Los artefactos específicos que esperamos que los equipos participantes entreguen, y que serán tomados en cuenta para la evaluación, son:

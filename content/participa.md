@@ -8,7 +8,7 @@ El Datatón Anticorrupción es un evento de participación voluntaria y gratuita
 
 Si te interesa participar, sigue las siguientes indicaciones, por favor:
 
-1. Llena la solicitud de [participación individual](https://docs.google.com/forms/d/e/1FAIpQLSc8lydxOD1BnVu33xsVROCdA_khZy9yKxVn5J7Fg7h8P4Zh4g/viewform).
+1. Llena la solicitud de [participación individual](https://docs.google.com/forms/d/e/1FAIpQLScGESOGYWhi7V_Hkl2yPPA0wR_CApFRavEM4sKO3YkRzHcdmQ/viewform).
 2. **Únete al Discord** del Dataton Anticorrupción 2024 e ingresa al canal [#🤖-bienvenida-datathon-2024](https://discord.com/channels/907813225897287710/1308651912593145856)
 3. Si cuentas con un equipo (máximo 5 integrantes), recuerda que todos deben llenar la solicitud (ver paso 1).
 4. Una vez que te registres te contactaremos para informarte los siguientes pasos.

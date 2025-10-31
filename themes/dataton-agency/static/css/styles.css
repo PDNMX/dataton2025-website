@@ -355,8 +355,8 @@ header {
 }
 
 section, .clients {
-    padding-top: 5em;
-    padding-bottom: 0em;
+    padding-top: 4em;
+    padding-bottom: 4em;
 }
 
 section h2.section-heading {
@@ -1125,4 +1125,8 @@ body::before {
     font-weight: 500;
     color: #fff;
     background-color: #a7519a;
+}
+
+article {
+    text-align: justify;
 }
