@@ -31,8 +31,13 @@
           </li>
           {{ else }}
           <li>
-            <a href="{{ .URL }}">{{ .Name }}</a>
-          </li>
+  <a href="{{ .URL }}"
+     {{ if or (strings.HasSuffix .URL ".pdf") (strings.HasPrefix .URL "http") }}
+       target="_blank" rel="noopener"
+     {{ end }}>
+    {{ .Name }}
+  </a>
+</li>
           {{ end }}
         {{ end }}
 
