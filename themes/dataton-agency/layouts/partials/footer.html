@@ -19,7 +19,7 @@
         <ul class="list-inline quicklinks">
 
           {{ range .Site.Params.footer.quicklinks }}
-            <li><a href="{{ .link }}">{{ .text  | markdownify }}</a></li>
+            <li><a href="{{ .link }}" target="_blank">{{ .text  | markdownify }} </a></li>
           {{ end }}
 
         </ul>
