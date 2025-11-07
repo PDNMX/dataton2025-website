@@ -1155,9 +1155,12 @@ article {
     }
 
     .navbar-brand>img {
-        max-width: 80px;
+        max-width: 45px;
         margin-left: 0;
     }
+    .navbar-brand {
+        font-size: 1em;
+    }    
 
     .intro-text {
         margin-top: 0;
@@ -1187,6 +1190,10 @@ article {
     }
     .page {
         padding-top: 5em;
+    }
+
+    .footergrid {
+        grid-template-columns: 50% 50%;
     }
 
 }
