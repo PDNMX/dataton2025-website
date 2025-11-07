@@ -1178,6 +1178,17 @@ article {
         text-align: left;
     }
 
+    .team-member h3 {
+        padding: 0px 0 0px 0;
+        text-align: center;
+    }
+    section, .clients {
+        padding-top: 5em;
+    }
+    .page {
+        padding-top: 5em;
+    }
+
 }
 
 @media(min-width:768px) {
