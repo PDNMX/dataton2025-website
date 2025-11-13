@@ -69,7 +69,7 @@ La propiedad intelectual de los proyectos y herramientas desarrollados durante e
 ### ¿Hay premios?
 Sí, tendremos premios en especie para los tres equipos ganadores, también se reconocerá su destacada contribución a la lucha contra la corrupción.
 
-En el caso de que su equipo sea el ganador, mínimo un integrante del equipo debe estar presente en la premiación que se llevará a cabo en la Ciudad de Tuxtla Gutérrez, Chiapas. Los organizadores del Datatón cubrirán los gastos del viaje. 
+<!-- En el caso de que su equipo sea el ganador, mínimo un integrante del equipo debe estar presente en la premiación que se llevará a cabo en la Ciudad de Tuxtla Gutérrez, Chiapas. Los organizadores del Datatón cubrirán los gastos del viaje.  -->
 
 Si quieres conocer el detalle de la premiación, consulta la convocatoria en la sección “BASES” de la página oficial del Datatón Anticorrupción 2025.
 
